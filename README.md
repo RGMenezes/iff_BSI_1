@@ -12,7 +12,7 @@
   - Tecs: **Java**
   - Pasta: **GP**
   - SubPastas: 
-    - *"NomeDoConteudo"*: *Flexivel*
+    - *"NomeDoConteudo"* *Flexivel*
   - Estrutura: *"NomeDaAtividade"*
 
 - Testes
